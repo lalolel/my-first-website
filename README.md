@@ -1,7 +1,6 @@
 # My first website
 
-Testing different kinds of code that could be useful for making a website.
-
+Small step for man...
 
 Click to visit website: https://lalolel.github.io/my-first-website
 
